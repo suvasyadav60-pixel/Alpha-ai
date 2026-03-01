@@ -1,0 +1,5 @@
+{
+  "name": "Alpha AI",
+  "description": "A real-time voice-activated AI assistant inspired by Jarvis.",
+  "requestFramePermissions": ["microphone"]
+}
